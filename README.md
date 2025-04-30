@@ -28,6 +28,8 @@
 * Improved SEO for career services homepage, increasing traffic by 7.5%
 * Mentored a junior developer through technical challenges, resulting in promotion to mid-level engineer
 
+<div style="page-break-before: always;"></div>
+
 ### Software Engineer, Ticom Geomatics (CACI) | Nov 2017 - Nov 2020
 * Co-architected AWS-based solution for legacy system test environments, improving developer experience while reducing hardware costs
 * Eliminated secure hardware facilities for system deployment, saving approximately $300K annually in equipment and facility costs
