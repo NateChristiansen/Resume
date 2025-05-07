@@ -3,7 +3,7 @@
 
 > Full stack software engineer with 10 years of experience across diverse products and tech stacks. Proficient in architectural design and cross-functional leadership. Balances execution speed with attention to detail to deliver high-quality software solutions that drive measurable business impact.
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/nathan-christiansen) | 814-490-6855 | nchristiansen42@gmail.com | Boulder, CO
+**Contact:** [LinkedIn](https://www.linkedin.com/in/nathan-christiansen) | 814-490-6855 | natechristiansen42@gmail.com | Boulder, CO
 
 ---
 
