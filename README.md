@@ -4,9 +4,11 @@
 
 </div>
 
-<div style="text-align: center; font-size: 0.9em;">
+<div style="text-align: center; font-size: 0.8em;">
 
-Software Engineer | Boulder, CO | 814-490-6855 | natechristiansen42@gmail.com | [linkedin.com/in/nathan-christiansen](https://www.linkedin.com/in/nathan-christiansen)
+Full-Stack Software Engineer | 10+ Years Experience | Technical Leadership
+
+Boulder, CO | 814-490-6855 | natechristiansen42@gmail.com | [linkedin.com/in/nathan-christiansen](https://www.linkedin.com/in/nathan-christiansen) | [github.com/NateChristiansen/Resume](https://github.com/NateChristiansen/Resume)
 
 </div>
 
@@ -69,8 +71,6 @@ Software Engineer | Boulder, CO | 814-490-6855 | natechristiansen42@gmail.com | 
 </div>
 
 ## Skills
-<div style="font-size: 0.8em;">
-
  - <strong>Languages:</strong> Java, TypeScript, C#, Python, SQL, JavaScript
  - <strong>Frameworks:</strong> Spring Boot, React, .NET, FastAPI, Node.js, GraphQL
  - <strong>AWS/Cloud:</strong> EC2, S3, Lambda, DynamoDB, SNS, SQS, AWS SWF, Load Balancer
@@ -78,8 +78,3 @@ Software Engineer | Boulder, CO | 814-490-6855 | natechristiansen42@gmail.com | 
  - <strong>Databases:</strong> MongoDB, SQLite, Postman, Docker, fly.io
  - <strong>AI/Game:</strong> LLM Integration, Procedural Generation, HTN AI, Godot
  - <strong>Soft Skills:</strong> Technical Leadership, Agile Methodologies, Cross-functional Collaboration, Mentorship
-
-</div>
-
-## About
-Full stack software engineer with 10 years of experience delivering scalable solutions across diverse tech stacks. Proven track record in architectural design, cross-functional leadership, and driving measurable business impact through simple solutions to complex problems.
