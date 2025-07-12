@@ -14,7 +14,7 @@ Software Engineer | Boulder, CO | 814-490-6855 | natechristiansen42@gmail.com | 
 
 ### Echoheart
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<strong>Co-Founder, Tech Lead</strong> (Side Project)
+<span><strong>Co-Founder, Tech Lead</strong> (Side Project)</span>
 <span>May 2024 - Present</span>
 </div>
 
@@ -69,13 +69,13 @@ Software Engineer | Boulder, CO | 814-490-6855 | natechristiansen42@gmail.com | 
 </div>
 
 ## Skills
-<strong>Languages</strong>: Java, TypeScript, C#, Python, SQL, JavaScript
-<strong>Frameworks/APIs</strong>: Spring Boot, React, .NET, FastAPI, Node.js, GraphQL, REST APIs
-<strong>AWS/Cloud</strong>: EC2, S3, Lambda, DynamoDB, SNS, SQS, AWS SWF, Application Load Balancer
-<strong>Testing/DevOps</strong>: JUnit, Jest, Cypress, Selenium, Git, GitHub, GitLab, Jenkins, CI/CD, Ansible
-<strong>Databases/Tools</strong>: MongoDB, SQLite, Postman, Wireshark, Godot, Docker, fly.io
-<strong>AI/Game Dev</strong>: LLM Integration, Procedural Generation, HTN AI Systems, Game Development
-<strong>Soft Skills</strong>: Technical Leadership, Agile Methodologies, Cross-functional Collaboration, Mentorship
+<strong>Languages:</strong> Java, TypeScript, C#, Python, SQL, JavaScript
+<strong>Frameworks:</strong> Spring Boot, React, .NET, FastAPI, Node.js, GraphQL
+<strong>AWS/Cloud:</strong> EC2, S3, Lambda, DynamoDB, SNS, SQS, AWS SWF, Load Balancer
+<strong>DevOps/Testing:</strong> Jenkins, CI/CD, Ansible, JUnit, Jest, Cypress, Selenium, Git
+<strong>Databases:</strong> MongoDB, SQLite, Postman, Docker, fly.io
+<strong>AI/Game:</strong> LLM Integration, Procedural Generation, HTN AI, Godot
+<strong>Soft Skills:</strong> Technical Leadership, Agile Methodologies, Cross-functional Collaboration, Mentorship
 
 ## About
-Full stack software engineer with 10 years of experience across diverse products and tech stacks. Proficient in architectural design and cross-functional leadership. Proven track record of delivering simple solutions for complex problems. Balances execution speed with attention to detail to deliver high-quality software solutions that drive measurable business impact.
+Full stack software engineer with 10 years of experience delivering scalable solutions across diverse tech stacks. Proven track record in architectural design, cross-functional leadership, and driving measurable business impact through simple solutions to complex problems.
