@@ -1,69 +1,81 @@
+<div style="text-align: center;">
+
 # Nathan Christiansen
-## Full Stack Software Engineer
 
-> Full stack software engineer with 10 years of experience across diverse products and tech stacks. Proficient in architectural design and cross-functional leadership. Balances execution speed with attention to detail to deliver high-quality software solutions that drive measurable business impact.
+</div>
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/nathan-christiansen) | 814-490-6855 | natechristiansen42@gmail.com | Boulder, CO
+<div style="text-align: center; font-size: 0.9em;">
 
----
+Software Engineer | Boulder, CO | 814-490-6855 | natechristiansen42@gmail.com | [linkedin.com/in/nathan-christiansen](https://www.linkedin.com/in/nathan-christiansen)
+
+</div>
 
 ## Experience
 
-### Software Engineer, Indeed | Dec 2020 - Present
+### Echoheart
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<strong>Co-Founder, Tech Lead</strong> (Side Project)
+<span>May 2024 - Present</span>
+</div>
 
-**Identity & Access Team | Apr 2025 - Present**
-* Recently joined team developing a high-priority company-wide access management platform aimed at simplifying account security and reducing administrative overhead
+* Leading a team of 7 developing commercial roguelike dungeon crawler using Godot engine in C#.
+* Implemented procedural graph generation framework to create complex networks using cyclic-driven patterns, generating organic, natural feeling environments with high exploration value.
+* Utilized Hierarchical Task Network (HTN) AI systems to create highly complex enemy behaviors, providing realistic reactions to player actions and engaging combat patterns.
+* Deployed FastAPI logging server on fly.io to gather playtester metrics, enabling data-driven balancing decisions and design improvements through qualitative and quantitative feedback.
 
-**Messaging Experience Team | Mar 2023 - Apr 2025**
-* Improved messaging responsiveness by 5% by introducing a responsive tag to encourage timely responses
-* Designed and implemented essential platform modernization features including drafts and mark as unread while maintaining consistent user engagement
-* Led LLM-based messaging suggestion system, reducing response time by 12 hours for recruiters and jobseekers using historical data
-* Designed enhanced logging and monitoring for deeper analytics insights, driving high-impact features like the responsiveness tag
-* Provided technical mentorship to a junior engineer, supporting their successful promotion
+### Indeed, Inc.
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<strong>Software Engineer</strong>
+<span>Dec 2020 - July 2025</span>
+</div>
 
-**Career Services Team | Dec 2020 - Mar 2023**
-* Led design and implementation of operations application that automated career coach work distribution, eliminating manual assignment
-* Architected scalable systems for rapid service delivery, expanding service catalog 3x while maintaining quality and high user reviews
-* Improved automated resume review service performance by 3x, significantly boosting traffic capacity
-* Improved SEO for career services homepage, increasing traffic by 7.5%
-* Mentored a junior developer through technical challenges, resulting in promotion to mid-level engineer
+* Rapidly integrated into high-priority account merging initiative following organizational restructuring, contributing GraphQL APIs, REST APIs, data logging/measurement capabilities, and critical bug fixes over 2 months.
+* Improved messaging engagement by implementing responsiveness tracking system, increasing messaging responsiveness by 5.62% and positive connections by 1.44% for jobseekers, and improving responsive candidate clicks by 7.4% and 3.9% positive connections for employers.
+* Designed and implemented platform modernization features including drafts and mark-as-unread functionality while maintaining consistent user engagement.
+* Led LLM-based messaging suggestion system using historical data, target job descriptions, and jobseeker resumes, reducing response time by 12 hours for recruiters and jobseekers.
+* Architected and implemented operations application that automated career coach work distribution, eliminating manual assignment processes and saving 25 working hours per week.
+* Enhanced system performance and scalability, improving automated resume review service performance by 3x and increasing SEO traffic by 7.5%, while expanding the paid service catalog by 2.5x, maintaining system quality and 4.0+ user reviews.
+* Mentored multiple junior developers through technical challenges and professional growth, resulting in multiple promotions to mid-level engineers.
 
 <div style="page-break-before: always;"></div>
 
-### Software Engineer, Ticom Geomatics (CACI) | Nov 2017 - Nov 2020
-* Co-architected AWS-based solution for legacy system test environments, improving developer experience while reducing hardware costs
-* Eliminated secure hardware facilities for system deployment, saving approximately $300K annually in equipment and facility costs
-* Automated system deployment with Ansible, reducing provisioning time from 1-2 weeks to under 3 hours
+### CACI - Ticom Geomatrics
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<strong>Software Engineer</strong>
+<span>Nov 2017 - Nov 2020</span>
+</div>
 
-### Erie Insurance | May 2015 - Oct 2017
+* Co-architected an AWS Simple Workflow Service orchestration solution for complex, multi-language legacy system (bash, C++, Java) testing environments, improving developer experience while reducing hardware costs.
+* Utilized Application Load Balancer to handle distributed network traffic which reduced failure downtime by 78% and improved capacity by 30% during peak usage.
+* Automated system deployment using Ansible, bootstrapping system orchestration and legacy application installation and configuration.
+* Reduced provisioning time by 98% from ~14 expected days of setup time to under 3 hours while eliminating the need for secure facilities, reducing costs by approximately $357k annually in equipment and facility requirements.
 
-**Software Engineer | May 2017 - Oct 2017**
-* Implemented RESTful API for claims retrieval using .NET, modernizing access to legacy mainframe data
-* Developed mocking framework to unblock front-end development, enabling parallel deliverables
+### Erie Insurance
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<strong>Associate Software Engineer</strong>
+<span>May 2015 - Oct 2017</span>
+</div>
 
-**Software Engineering Intern | May 2015 - May 2017**
-* Created automated testing framework using Selenium, eliminating hundreds of manual QA steps
-* Designed database change management tool with comprehensive audit logging
-
-___
-
-## Projects
-
-### Echoheart - Tech Lead & Project Manager (2024 - Present)
-* Leading 4-engineer team developing roguelike dungeon crawler using Godot engine
-* Implemented procedural dungeon generation and hierarchical task network AI for dynamic enemy behavior
-* Deployed FastAPI logging server on fly.io to gather playtester metrics, enabling data-driven balancing decisions
-
-___
+* Constructed a RESTful API for claims retrieval using .NET Core, modernizing access to legacy mainframe data and improving reliability and security while providing improved network response times by 34%.
+* Created mocking framework to parallelize front-end and back-end development, reducing expected development time for the claims retrieval solution by 18%.
+* Integrated Selenium with C# into the automation testing workflow,  eliminating hundreds of manual QA steps and reducing time to delivery by 23%.
+* Designed web-based SQL database change management tool using .NET Core with comprehensive audit logging, reducing risk of manual edits and improving security and reliability with fallback mechanisms.
 
 ## Education
-**Pennsylvania State University** - B.S. in Software Engineering, 2017
-
-___
+### Pennsylvania State University
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<strong>B.S. in Software Engineering, Minor in Computer Science</strong>
+<span>2017</span>
+</div>
 
 ## Skills
-**Languages:** Java, TypeScript, C#, Python, SQL, JavaScript  
-**Frameworks/AWS:** Spring Boot, React, .NET, FastAPI, Node.js, EC2, S3, Lambda, DynamoDB, SNS, SQS  
-**Testing/DevOps:** JUnit, Jest, Cypress, Selenium, Git, GitHub, GitLab, Jenkins, CI/CD  
-**Databases/Tools:** MongoDB, SQLite, Postman, Wireshark, Godot, Docker, fly.io  
-**Soft Skills:** Technical Leadership, Agile Methodologies, Cross-functional Collaboration, Mentorship
+<strong>Languages</strong>: Java, TypeScript, C#, Python, SQL, JavaScript
+<strong>Frameworks/APIs</strong>: Spring Boot, React, .NET, FastAPI, Node.js, GraphQL, REST APIs
+<strong>AWS/Cloud</strong>: EC2, S3, Lambda, DynamoDB, SNS, SQS, AWS SWF, Application Load Balancer
+<strong>Testing/DevOps</strong>: JUnit, Jest, Cypress, Selenium, Git, GitHub, GitLab, Jenkins, CI/CD, Ansible
+<strong>Databases/Tools</strong>: MongoDB, SQLite, Postman, Wireshark, Godot, Docker, fly.io
+<strong>AI/Game Dev</strong>: LLM Integration, Procedural Generation, HTN AI Systems, Game Development
+<strong>Soft Skills</strong>: Technical Leadership, Agile Methodologies, Cross-functional Collaboration, Mentorship
+
+## About
+Full stack software engineer with 10 years of experience across diverse products and tech stacks. Proficient in architectural design and cross-functional leadership. Proven track record of delivering simple solutions for complex problems. Balances execution speed with attention to detail to deliver high-quality software solutions that drive measurable business impact.
