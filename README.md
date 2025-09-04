@@ -23,7 +23,7 @@ Boulder, CO | 814-490-6855 | natechristiansen42@gmail.com | [linkedin.com/in/nat
 * Leading a team of 7 developing commercial roguelike dungeon crawler using Godot engine in C#.
 * Developed procedural graph generation framework to create complex networks using cyclic-driven patterns, generating organic, natural feeling environments with high exploration value.
 * Employed Hierarchical Task Network (HTN) AI systems to create highly complex enemy behaviors, providing realistic reactions to player actions and engaging combat patterns.
-* Deployed FastAPI logging server on fly.io to gather playtester metrics, enabling data-driven balancing decisions and design improvements through qualitative and quantitative feedback.
+* Deployed FastAPI logging server on fly.io to gather playtester metrics, logging metrics to a PostgreSQL database enabling data-driven balancing decisions and design improvements through qualitative and quantitative feedback.
 
 ### Indeed, Inc.
 <div style="display: flex; justify-content: space-between; align-items: center;">
